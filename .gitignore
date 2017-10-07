@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# Build folder js files
+build/*.js
+
+# Visual Studio Code
+.vscode
+
+# JetBrains ide
+.idea
